@@ -1,0 +1,10 @@
+# テキストファイルに対する自動改行
+*.py text eol=lf
+*.bat text eol=crlf
+*.md text eol=lf
+
+# バイナリファイルとして扱うべきファイル形式
+*.jpg binary
+*.png binary
+*.fbx binary
+*.obj binary
