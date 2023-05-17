@@ -71,7 +71,7 @@ windows10 / 11
 <br>
 <br>
 
-> clo3d_to_virtualtryon_v2.0.1  
+> clo3d_to_virtualtryon
 2023/01/29  
 VRC Inc.    
 Naoto SHIGENOBU  
